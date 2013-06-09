@@ -1,6 +1,6 @@
 # Chrome Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-chrome.png?branch=master)](https://travis-ci.org/boxen/puppet-chrome)
+[![Build Status](https://travis-ci.org/carwin/puppet-chrome.png?branch=canary-spec)](https://travis-ci.org/carwin/puppet-chrome)
 
 Install [Google Chrome](), an adequate web browser.
 
